@@ -1,4 +1,4 @@
-# bash
+# New Mac Setup Scripts
 
 
 Simple guide to automating configuration of your new mac.  Because automation is more fun.
